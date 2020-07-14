@@ -1,0 +1,6 @@
+My SSN is XXX-XX-XXXX.
+My salary is $XX.XX per year.
+My PIN is XXXX.
+My SSN is 123-45-6789.
+My salary is $12,345.67 per year.
+My PIN is 1234.

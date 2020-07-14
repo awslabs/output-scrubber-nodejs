@@ -1,0 +1,16 @@
+{
+  "name": "output-scrubber",
+  "description": "Automatically obscure sensitive output in stdout and stderr.",
+  "repository": "https://github.com/awslabs/output-scrubber-nodejs",
+  "license": "Apache-2.0",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "test/test.bash",
+    "lint": "node_modules/.bin/eslint index.js test/*.js"
+  },
+  "devDependencies": {
+    "eslint": "7.4.0",
+    "eslint-config-airbnb-base": "14.2.0",
+    "eslint-plugin-import": "2.22.0"
+  }
+}
