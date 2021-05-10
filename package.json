@@ -2,13 +2,13 @@
   "name": "output-scrubber",
   "description": "Automatically obscure sensitive output in stdout and stderr.",
   "repository": {
-      "type": "git",
-      "url": "https://github.com/awslabs/output-scrubber-nodejs.git"
-    },
+    "type": "git",
+    "url": "https://github.com/awslabs/output-scrubber-nodejs.git"
+  },
   "license": "Apache-2.0",
   "version": "1.0.0",
-  "engines" : {
-    "node" : ">=12"
+  "engines": {
+    "node": ">=12"
   },
   "scripts": {
     "test": "test/test.bash",
