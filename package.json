@@ -15,8 +15,8 @@
     "lint": "node_modules/.bin/eslint index.js test/*.js"
   },
   "devDependencies": {
-    "eslint": "7.4.0",
-    "eslint-config-airbnb-base": "14.2.0",
-    "eslint-plugin-import": "2.22.0"
+    "eslint": "7.26.0",
+    "eslint-config-airbnb-base": "14.2.1",
+    "eslint-plugin-import": "2.22.1"
   }
 }
