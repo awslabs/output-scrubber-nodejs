@@ -6,7 +6,7 @@
     "url": "https://github.com/awslabs/output-scrubber-nodejs.git"
   },
   "license": "Apache-2.0",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "engines": {
     "node": ">=12"
   },
